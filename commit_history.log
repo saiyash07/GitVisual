@@ -74,3 +74,4 @@ Commit 74: feat: handle 'Space' or 's' to load new repo
 Commit 75: feat: handle 'Esc' to cancel switcher popup
 Commit 76: refactor: clean up terminal restoring routine
 Commit 77: docs: create detailed README documentation
+Commit 78: release: finalize v0.1.0 changes
