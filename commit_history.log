@@ -38,3 +38,4 @@ Commit 38: feat: render basic border layouts for panels
 Commit 39: feat: display repository title in header block
 Commit 40: feat: render scrollable commits list on left pane
 Commit 41: feat: render active selected commit indicator
+Commit 42: feat: render branches and tags next to commits
