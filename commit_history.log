@@ -35,3 +35,4 @@ Commit 35: feat: add main event handling loop skeleton
 Commit 36: feat: handle exit keys 'q' and 'Esc'
 Commit 37: feat: route arrow key events to active pane
 Commit 38: feat: render basic border layouts for panels
+Commit 39: feat: display repository title in header block
