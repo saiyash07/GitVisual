@@ -6,3 +6,4 @@ Commit 6: dep: add crossterm library to dependencies
 Commit 7: dep: add git2 library to dependencies
 Commit 8: dep: add anyhow and chrono libraries
 Commit 9: feat: declare modules for app, git, and ui
+Commit 10: feat: implement basic terminal initialization
