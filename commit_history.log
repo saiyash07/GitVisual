@@ -51,3 +51,4 @@ Commit 51: fix: handle missing commit authors or dates
 Commit 52: fix: prevent scroll overflow in diff panel
 Commit 53: fix: center panel layout dimensions on resize
 Commit 54: feat: introduce folder selector overlay state
+Commit 55: feat: store current selector directory path
