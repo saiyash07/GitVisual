@@ -2,3 +2,4 @@ Commit 2: add: project configuration and gitignore
 Commit 3: add: mit license text
 Commit 4: add: initial cargo package configuration
 Commit 5: dep: add ratatui library to dependencies
+Commit 6: dep: add crossterm library to dependencies
