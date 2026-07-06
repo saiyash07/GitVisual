@@ -56,3 +56,4 @@ Commit 56: feat: collect folder entries for selection
 Commit 57: feat: implement folder entry index cursor tracking
 Commit 58: feat: implement folder list navigation logic
 Commit 59: feat: add parent directory '..' option to list
+Commit 60: feat: implement file system read_dir loading
