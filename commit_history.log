@@ -49,3 +49,4 @@ Commit 49: refactor: simplify layout rendering constraints
 Commit 50: fix: handle empty git repositories gracefully
 Commit 51: fix: handle missing commit authors or dates
 Commit 52: fix: prevent scroll overflow in diff panel
+Commit 53: fix: center panel layout dimensions on resize
