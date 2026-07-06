@@ -16,3 +16,4 @@ Commit 16: feat: define CommitInfo struct for commit metadata
 Commit 17: feat: implement get_commits function in GitRepo
 Commit 18: feat: configure revwalk sorting by topological/time
 Commit 19: feat: implement commit parent ID retrieval
+Commit 20: feat: extract and map references to OIDs
