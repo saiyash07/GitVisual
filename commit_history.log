@@ -21,3 +21,4 @@ Commit 21: feat: format commit timestamps using chrono
 Commit 22: feat: implement get_diff function signature
 Commit 23: feat: fetch tree comparisons for diff generation
 Commit 24: feat: format file addition differences
+Commit 25: feat: format file deletion differences
