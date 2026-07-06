@@ -52,3 +52,4 @@ Commit 52: fix: prevent scroll overflow in diff panel
 Commit 53: fix: center panel layout dimensions on resize
 Commit 54: feat: introduce folder selector overlay state
 Commit 55: feat: store current selector directory path
+Commit 56: feat: collect folder entries for selection
