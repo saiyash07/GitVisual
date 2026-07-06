@@ -71,3 +71,4 @@ Commit 71: feat: check and show Git repo status inside popup
 Commit 72: feat: route keyboard events to folder browser list
 Commit 73: feat: handle 'Enter' to step inside folder
 Commit 74: feat: handle 'Space' or 's' to load new repo
+Commit 75: feat: handle 'Esc' to cancel switcher popup
