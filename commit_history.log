@@ -54,3 +54,4 @@ Commit 54: feat: introduce folder selector overlay state
 Commit 55: feat: store current selector directory path
 Commit 56: feat: collect folder entries for selection
 Commit 57: feat: implement folder entry index cursor tracking
+Commit 58: feat: implement folder list navigation logic
