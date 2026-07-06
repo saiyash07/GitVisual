@@ -47,3 +47,4 @@ Commit 47: feat: render footer with active keybindings
 Commit 48: refactor: optimize diff string memory usage
 Commit 49: refactor: simplify layout rendering constraints
 Commit 50: fix: handle empty git repositories gracefully
+Commit 51: fix: handle missing commit authors or dates
