@@ -33,3 +33,4 @@ Commit 33: feat: add diff scroll functionality (up/down)
 Commit 34: feat: implement pane toggle mechanism
 Commit 35: feat: add main event handling loop skeleton
 Commit 36: feat: handle exit keys 'q' and 'Esc'
+Commit 37: feat: route arrow key events to active pane
