@@ -68,3 +68,4 @@ Commit 68: feat: show current path in popup header
 Commit 69: feat: display directory entries in popup body
 Commit 70: feat: style active folder item with Yellow foreground
 Commit 71: feat: check and show Git repo status inside popup
+Commit 72: feat: route keyboard events to folder browser list
