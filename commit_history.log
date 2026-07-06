@@ -65,3 +65,4 @@ Commit 65: feat: implement repo checking helper function
 Commit 66: feat: render folder selector popup layout
 Commit 67: feat: draw Double borders for folder popup
 Commit 68: feat: show current path in popup header
+Commit 69: feat: display directory entries in popup body
