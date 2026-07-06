@@ -42,3 +42,4 @@ Commit 42: feat: render branches and tags next to commits
 Commit 43: feat: display author name and time metadata
 Commit 44: feat: render scrollable diff pane on right
 Commit 45: feat: highlight code additions in green
+Commit 46: feat: highlight code deletions in red
