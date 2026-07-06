@@ -19,3 +19,4 @@ Commit 19: feat: implement commit parent ID retrieval
 Commit 20: feat: extract and map references to OIDs
 Commit 21: feat: format commit timestamps using chrono
 Commit 22: feat: implement get_diff function signature
+Commit 23: feat: fetch tree comparisons for diff generation
