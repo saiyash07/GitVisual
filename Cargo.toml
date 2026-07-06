@@ -1,0 +1,11 @@
+[package]
+name = "TUI"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ratatui = "0.29.0"
+crossterm = { version = "0.28.1", features = ["event-stream"] }
+git2 = "0.19.0"
+anyhow = "1.0.86"
+chrono = "0.4.39"
