@@ -10,3 +10,4 @@ Commit 10: feat: implement basic terminal initialization
 Commit 11: feat: add alternate screen toggling
 Commit 12: feat: enable raw mode for command line interface
 Commit 13: feat: configure mouse capture controls
+Commit 14: feat: define GitRepo structure in git module
