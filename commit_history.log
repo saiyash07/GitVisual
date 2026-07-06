@@ -73,3 +73,4 @@ Commit 73: feat: handle 'Enter' to step inside folder
 Commit 74: feat: handle 'Space' or 's' to load new repo
 Commit 75: feat: handle 'Esc' to cancel switcher popup
 Commit 76: refactor: clean up terminal restoring routine
+Commit 77: docs: create detailed README documentation
