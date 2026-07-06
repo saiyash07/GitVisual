@@ -28,3 +28,4 @@ Commit 28: feat: define App core structure fields
 Commit 29: feat: implement App constructor with path argument
 Commit 30: feat: implement commit list refreshing method
 Commit 31: feat: implement diff update request handler
+Commit 32: feat: add commit list navigation (up/down)
