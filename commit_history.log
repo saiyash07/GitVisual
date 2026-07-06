@@ -60,3 +60,4 @@ Commit 60: feat: implement file system read_dir loading
 Commit 61: feat: sort directory entries alphabetically
 Commit 62: feat: filter non-directory entries out
 Commit 63: feat: implement canonical path resolution for '..'
+Commit 64: feat: implement workspace directory selection
